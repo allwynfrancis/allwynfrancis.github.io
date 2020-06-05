@@ -1070,7 +1070,7 @@ animation:animate-take 5s reverse;
 } 
 .container .box:hover .content p{
   transform: translateY(0);
-  transition-delay:1.5s ;
+  transition-delay:0.8s ;
 }
 
 
@@ -1273,7 +1273,7 @@ ul li::after{
      color:rgba(255, 255, 255, 0.6);
      font-size: 30px !important;
      transition: 0.2s;
-     opacity: 0.5;
+     opacity: 0.8;
 
 
  }
@@ -1313,7 +1313,7 @@ ul li:nth-child(2):hover span{
     background: #0077B5;
 }
 ul li:nth-child(3):hover span{
-    background: #25d366;
+    background: #6a737d;
 }
 ul li:nth-child(4):hover span{
     background: #3b5999;
